@@ -55,6 +55,7 @@
             <e p="GameController.cs" t="Include" />
             <e p="Money.cs" t="Include" />
           </e>
+          <e p="CubeController.cs" t="Include" />
           <e p="Phys" t="Include">
             <e p="GameController.cs" t="Include" />
           </e>
