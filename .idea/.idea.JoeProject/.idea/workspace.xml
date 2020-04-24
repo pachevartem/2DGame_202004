@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="80cde5e7-a55b-4d91-864a-d9171b98c45c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/2D Physics.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/2D Physics.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Coruyine.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Coruyine.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeController.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/Money.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/Robot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/BraidController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/ExitDoor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
@@ -36,7 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Phys/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" />
@@ -51,6 +50,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/RoboGame/Robot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RoboGame/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CubeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       </list>
     </option>
   </component>
@@ -101,7 +102,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587627431156</updated>
-      <workItem from="1587627434725" duration="18453000" />
+      <workItem from="1587627434725" duration="19001000" />
+      <workItem from="1587716795977" duration="797000" />
     </task>
     <servers />
   </component>
@@ -115,7 +117,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

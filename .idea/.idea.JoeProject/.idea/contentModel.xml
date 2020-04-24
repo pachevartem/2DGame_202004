@@ -55,7 +55,11 @@
             <e p="GameController.cs" t="Include" />
             <e p="Money.cs" t="Include" />
           </e>
-          <e p="CubeController.cs" t="Include" />
+          <e p="FAQ_4" t="Include">
+            <e p="CheckComponent.cs" t="Include" />
+            <e p="CubeController.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+          </e>
           <e p="Phys" t="Include">
             <e p="GameController.cs" t="Include" />
           </e>
@@ -65,6 +69,9 @@
             <e p="GameController.cs" t="Include" />
             <e p="Robot.cs" t="Include" />
             <e p="Statistic.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="GameController.cs" t="Include" />
           </e>
         </e>
         <e p="Standard Assets" t="Include">
