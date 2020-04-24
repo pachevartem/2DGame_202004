@@ -44,6 +44,11 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AI" t="Include">
+            <e p="AgentAJ.cs" t="Include" />
+            <e p="AJGameController.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+          </e>
           <e p="Aj" t="Include">
             <e p="AjController.cs" t="Include" />
           </e>
@@ -68,6 +73,7 @@
             <e p="ExitDoor.cs" t="Include" />
             <e p="GameController.cs" t="Include" />
             <e p="Robot.cs" t="Include" />
+            <e p="SoundController.cs" t="Include" />
             <e p="Statistic.cs" t="Include" />
           </e>
           <e p="UI" t="Include">
