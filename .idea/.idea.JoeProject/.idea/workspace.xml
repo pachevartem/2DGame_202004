@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80cde5e7-a55b-4d91-864a-d9171b98c45c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AgentAJ.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AI/AgentAJ.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RoboGame/SoundController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RoboGame/SoundController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP/Elf.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP/Elf.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP/Gnome.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP/Gnome.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP/Elf.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP/Elf.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP/Gnome.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP/Gnome.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Drenay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Drenay.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Elf.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Elf.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/GameController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/GameController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Gnome.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Gnome.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Humanoid.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Humanoid.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/UI_StartGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UI_StartGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +44,28 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/AgentAJ.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FAQ_4/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleAtrr.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FAQ_4/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Humanoid.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FAQ_4/CheckComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/2D Physics.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/SoundController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Aj/AjController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Gnome.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Phys/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/Money.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Elf.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/BraidController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/ExitDoor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/AJGameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Drenay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/2D_Level0.unity" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,7 +73,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Phys/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Money.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/BraidController.cs" />
@@ -68,17 +90,28 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AI/AJGameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AI/AgentAJ.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RoboGame/SoundController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleAtrr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Human.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Humanoid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Elf.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Gnome.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Drenay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/GameController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1avsW7GpvhowUMqbCQVL0qSZOGR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -119,7 +152,9 @@
       <option name="presentableId" value="Default" />
       <updated>1587627431156</updated>
       <workItem from="1587627434725" duration="19001000" />
-      <workItem from="1587716795977" duration="5938000" />
+      <workItem from="1587716795977" duration="7481000" />
+      <workItem from="1587798304309" duration="130000" />
+      <workItem from="1587798827032" duration="4010000" />
     </task>
     <servers />
   </component>
@@ -141,15 +176,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="317" key="Rider.ProjectTemplateDialog.Size" timestamp="1587646236150">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="552" y="317" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1170/1920.0.1920.1050@0.0.1920.1170" timestamp="1587646236150" />
-    <state x="691" y="308" key="RiderGenerateDialog" timestamp="1587649121828">
+    <state x="691" y="308" key="RiderGenerateDialog" timestamp="1587802617897">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="691" y="308" key="RiderGenerateDialog/0.0.1920.1170/1920.0.1920.1050@0.0.1920.1170" timestamp="1587649121828" />
+    <state x="691" y="308" key="RiderGenerateDialog/0.0.1920.1170/1920.0.1920.1050@0.0.1920.1170" timestamp="1587802617897" />
     <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1587645495746">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>

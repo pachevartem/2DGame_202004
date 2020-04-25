@@ -44,6 +44,16 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Advenced" t="Include">
+            <e p="ExampleAtrr.cs" t="Include" />
+            <e p="OOP" t="Include">
+              <e p="Drenay.cs" t="Include" />
+              <e p="Elf.cs" t="Include" />
+              <e p="GameController.cs" t="Include" />
+              <e p="Gnome.cs" t="Include" />
+              <e p="Humanoid.cs" t="Include" />
+            </e>
+          </e>
           <e p="AI" t="Include">
             <e p="AgentAJ.cs" t="Include" />
             <e p="AJGameController.cs" t="Include" />
