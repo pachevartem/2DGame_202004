@@ -10,7 +10,7 @@ namespace BraidGame
     {
         // public BraidController _player; // плохо что надо делать это руками
         BraidController _player;
-
+        public static Action OnDamage = () => { };
          private void Awake()
          {
              // _player = GameObject.Find("Braid_Idel").GetComponent<BraidController>(); 
@@ -22,6 +22,7 @@ namespace BraidGame
             if (other.CompareTag("Player"))
             {
             _player.ResetPosition();
+            OnDamage();
             }
             // other.SendMessage("ResetPosition"); //запрещено к использованию
             // other.GetComponent<BraidController>().ResetPosition(); // 3/10 не надо так

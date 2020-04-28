@@ -2,268 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80cde5e7-a55b-4d91-864a-d9171b98c45c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Gizmos.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gizmos/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gizmos/logo.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials/p1.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials/p1.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials/p2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials/p2.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials/p3.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/Materials/p3.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/p1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/p1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/p2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/p2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/p3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Image/Paralax/p3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Green.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Green.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Mirror.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Mirror.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP/Drenay.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/OOP/Drenay.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/REd.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/REd.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/Miroor.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/Miroor.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/Mirror.renderTexture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/Mirror.renderTexture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/TV.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/TV.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/TV.renderTexture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TV_Mirror/TV.renderTexture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TrailMaterial.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/TrailMaterial.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/New Terrain.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/New Terrain.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP/Drenay.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefab/OOP/Drenay.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/wood.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/wood.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Adv_02.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Adv_02.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Adv_03.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Adv_03.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Mirror.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Mirror.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/ResourcesLoadScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/ResourcesLoadScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Mirror_normal.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Mirror_normal.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/PrefabPainter.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/PrefabPainter.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/AdvancedCreateGameObejct.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/AdvancedCreateGameObejct.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleDrawGizmo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleDrawGizmo.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleLineRenderer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleLineRenderer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/GetWWWPictures.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/GetWWWPictures.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/MyUniversalScript.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/ResourcesController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Docs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Docs/Documentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Docs/Documentation.pdf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Docs/changelog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Docs/changelog.txt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Decals.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Decals.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Footsteps.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Footsteps.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Footsteps_red.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Footsteps_red.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Glass.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Glass.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Red.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Red.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Water.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/Water.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/color_table.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Materials/color_table.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal2.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal2.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal3.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal3.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal4.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/decal4.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/grass.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/grass.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/land.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/land.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/leaf.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/leaf.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/powerup.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/powerup.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/stone1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/stone1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/stone2.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/stone2.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree2.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree2.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree3.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree3.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree4.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Models/tree4.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal3.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal3.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal4.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/decal4.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_a01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_a01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_a02.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_a02.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_b01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_b01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_b02.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/footstep_b02.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/grass.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/grass.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/land.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/land.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/leaf.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/leaf.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/powerup.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/powerup.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/stone1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/stone1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/stone2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/stone2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree3.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree3.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree4.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Prefabs/tree4.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Scenes/CleanScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Scenes/CleanScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Scenes/ExampleScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Scenes/ExampleScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures/color_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures/color_table.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures/decals.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures/decals.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures/footsteps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Examples/Textures/footsteps.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/AddIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/AddIcon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/AddIcon_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/AddIcon_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/BrushTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/BrushTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/BrushTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/BrushTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/CloseIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/CloseIcon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/EraseTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/EraseTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/EraseTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/EraseTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/LevelsIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/LevelsIcon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ModifyTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ModifyTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ModifyTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ModifyTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/MoveTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/MoveTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/MoveTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/MoveTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/OrientTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/OrientTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/OrientTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/OrientTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PPIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PPIcon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PPIconW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PPIconW.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PinTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PinTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PinTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PinTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PlaceTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PlaceTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PlaceTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/PlaceTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ResetIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ResetIcon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ResetIcon_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/ResetIcon_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SelectTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SelectTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SelectTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SelectTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SettingsTool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SettingsTool.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SettingsTool_HIDPI.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/SettingsTool_HIDPI.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/TagIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/GUI/TagIcon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Decal Along Stroke.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Decal Along Stroke.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Decal Footsteps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Decal Footsteps.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Decal.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Decal.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Random.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Random.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Stones.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Stones.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Tree.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Presets/Tree.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/Editor/PrafabPainterGUI.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/Editor/PrafabPainterGUI.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/Editor/PrefabPainter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/Editor/PrefabPainter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/PrefabPainterSceneSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/PrefabPainterSceneSettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/PrefabPainterSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Scripts/PrefabPainterSettings.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Settings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Settings/defaultSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Settings/defaultSettings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Settings/settings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Settings/settings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Shaders.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Shaders/GUITextureClipLevels.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/nTools/PrefabPainter/Shaders/GUITextureClipLevels.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Braid/UIController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Braid/UIController.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JoeProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Aj/Prefab/aj.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Aj/Prefab/aj.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/2D_Level0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/2D_Level0.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Advanced/Adv_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Advanced/Adv_01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Drenay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Drenay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/GameController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Humanoid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Humanoid.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/2D_example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/2D_example.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Braid/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Braid/GameController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,6 +21,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/2D_example.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/Statistic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/GetWWWPictures.cs" root0="FORCE_HIGHLIGHTING" />
@@ -291,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/2D Physics.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/SoundController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Braid/UIController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Aj/AjController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Gnome.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoboGame/GameController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -316,9 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Phys/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/CameraFollow.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Money.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Braid/BraidController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Aj/AjController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RoboGame/Statistic.cs" />
@@ -334,7 +80,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AI/AJGameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AI/AgentAJ.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RoboGame/SoundController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleAtrr.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Human.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/OOP/Elf.cs" />
@@ -348,6 +93,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/ExampleLineRenderer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/ResourcesController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Advenced/GetWWWPictures.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/UIController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Braid/GameController.cs" />
       </list>
     </option>
   </component>
@@ -406,7 +155,7 @@
       <workItem from="1587798304309" duration="130000" />
       <workItem from="1587798827032" duration="5779000" />
       <workItem from="1587972252775" duration="5407000" />
-      <workItem from="1588058452942" duration="811000" />
+      <workItem from="1588058452942" duration="3606000" />
     </task>
     <servers />
   </component>
