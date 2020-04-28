@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\UnityProject\JoeProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -43,9 +44,32 @@
             </e>
           </e>
         </e>
+        <e p="nTools" t="Include">
+          <e p="PrefabPainter" t="Include">
+            <e p="Docs" t="Include">
+              <e p="changelog.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="PrafabPainterGUI.cs" t="Include" />
+                <e p="PrefabPainter.cs" t="Include" />
+              </e>
+              <e p="PrefabPainterSceneSettings.cs" t="Include" />
+              <e p="PrefabPainterSettings.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="GUITextureClipLevels.shader" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="Advenced" t="Include">
+            <e p="AdvancedCreateGameObejct.cs" t="Include" />
             <e p="ExampleAtrr.cs" t="Include" />
+            <e p="ExampleDrawGizmo.cs" t="Include" />
+            <e p="ExampleLineRenderer.cs" t="Include" />
+            <e p="GetWWWPictures.cs" t="Include" />
+            <e p="MyUniversalScript.cs" t="Include" />
             <e p="OOP" t="Include">
               <e p="Drenay.cs" t="Include" />
               <e p="Elf.cs" t="Include" />
@@ -53,6 +77,7 @@
               <e p="Gnome.cs" t="Include" />
               <e p="Humanoid.cs" t="Include" />
             </e>
+            <e p="ResourcesController.cs" t="Include" />
           </e>
           <e p="AI" t="Include">
             <e p="AgentAJ.cs" t="Include" />

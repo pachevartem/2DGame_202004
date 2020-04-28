@@ -4,8 +4,8 @@
     {
         public override void WinBehaviuor()
         {
-            base.WinBehaviuor();
-            // print("Взрыв магии победный");
+            // base.WinBehaviuor();
+            print("Взрыв магии победный");
         }
     }
 }

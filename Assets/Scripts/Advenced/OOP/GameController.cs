@@ -13,6 +13,10 @@ namespace OOP
 
         public GameObject prefbElf;
         public GameObject prefbGnome;
+        public GameObject prefbDrenay;
+
+        TypeRaсe Race;
+
 
         Vector3 RandomPosition()
         {
@@ -26,14 +30,34 @@ namespace OOP
         {
             for (int i = 0; i < 100; i++)
             {
-                int _random = Random.Range(1, 4);
-                if (_random % 2 == 0)
+                int _r = Random.Range(1, 4);
+
+                switch (_r)
                 {
-                    AddHumanoid(prefbElf);
+                    case 1:
+                        Race = TypeRaсe.drenay;
+                        break;
+                    case 2:
+                        Race = TypeRaсe.elf;
+                        break;
+                    case 3:
+                        Race = TypeRaсe.gnome;
+                        break;
                 }
-                else 
+
+                switch (Race)
                 {
-                    AddHumanoid(prefbGnome);
+                    case TypeRaсe.elf:
+                        AddHumanoid(prefbElf);
+                        break;
+                    case TypeRaсe.gnome:
+                        AddHumanoid(prefbGnome);
+                        break;
+                    case TypeRaсe.drenay:
+                        AddHumanoid(prefbDrenay);
+                        break;
+                    default:
+                        throw new ArgumentOutOfRangeException();
                 }
             }
         }
@@ -56,6 +80,7 @@ namespace OOP
                     pupil.WinBehaviuor();
                 }
             }
+
             if (Input.GetKeyDown(KeyCode.Backspace))
             {
                 foreach (var pupil in pupils)
@@ -67,5 +92,13 @@ namespace OOP
                 }
             }
         }
+    }
+
+
+    public enum TypeRaсe
+    {
+        elf, //0
+        gnome, //1
+        drenay //2
     }
 }
